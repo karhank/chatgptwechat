@@ -33,7 +33,7 @@
   "temperature": 0.7,
   "top_p": 1,
   "subscribe_msg": "感谢您的关注！\n这里是ChatGPT，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
-  "use_linkai": false,
-  "linkai_api_key": "",
+  "use_linkai": true,
+  "linkai_api_key": "Link_XfV4iF796Pe6jur7crfeJKDO9IvKVIn6t7PO210gy0",
   "linkai_app_code": ""
 }
